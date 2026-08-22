@@ -21,8 +21,6 @@ Assignment3/
   └── Assignment3_Questions.pdf       # Original question paper
 ```
 
-> **Note:** Assignment 3's notebook file was not available at upload time — only the combined PDF (handwritten + code output) is included. Add the `.ipynb` to `Assignment3/` if you have it.
-
 ## Topics Covered
 
 - **Assignment 1:** Matrix derivatives, Fisherfaces (PCA + LDA), Maximum Likelihood Linear Regression, Maximum Likelihood Classification, Speech spectrogram whitening, GMM training
